@@ -1,0 +1,38 @@
+
+body{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image:url(/Assets/images\ \(2\).jpg);
+    color:white;
+    font-size: large;
+    margin:50px;
+}
+div{
+    width: 500px;
+    height: 300px;
+    border: 2px solid white;
+    border-radius: 51px;
+    padding: 30px 30px 150px 30px;
+    text-align: center;
+    box-shadow: 10px 10px 10px white;
+
+}
+input[type=email]{
+    color:rgb(255, 252, 252);
+    background-color:transparent;
+}
+input[type=text]
+{
+    color:rgb(249, 246, 246);
+    background-color:transparent;
+}
+input[type=password]
+{
+    color:rgb(255, 254, 254);
+    background-color:transparent;
+}
+input[type=date]
+{
+    color:rgb(255, 255, 255);
+    background-color:transparent;
+}
